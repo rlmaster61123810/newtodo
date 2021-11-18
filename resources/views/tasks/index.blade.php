@@ -2,8 +2,9 @@
 
 
 @section('content')
-<body>
 
-    <h1>Task list</h1>
+    <body>
 
-@endsection
+        <h1>Task list</h1>
+
+    @endsection
