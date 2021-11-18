@@ -4,8 +4,8 @@
     <form method="POST" action="/tasks/store">
         @csrf
         <div class="from-group">
-            <label for="descripion"> Task Description</label>
-            <input class="form-control" name="descripion" />
+            <label for="description"> Task description</label>
+            <input class="form-control" name="description" />
         </div>
 
         <div class="from-group">
