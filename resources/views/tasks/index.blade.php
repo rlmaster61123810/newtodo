@@ -1,12 +1,9 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>Todo App Demo</title>
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css">
-    </head>
-    <body>
+@extends('layouts.app')
 
-        <h1>Task list</h1>
 
-    </body>
-</html>
+@section('content')
+<body>
+
+    <h1>Task list</h1>
+
+@endsection
